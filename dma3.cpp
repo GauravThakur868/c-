@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+class a{};
 int main(){
 	int *arr;
 	int *arr1;
